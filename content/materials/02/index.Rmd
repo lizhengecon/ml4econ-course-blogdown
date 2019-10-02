@@ -1,0 +1,30 @@
+---
+title: 'Lecture 01: Course Overview'
+draft: false
+event: 'Machine Learning for Economists 2019'
+event_url: https://ysc2019.netlify.com/#workshop
+location: Jerusalem, Israel
+categories: [slides]
+tags: []
+lastmod: '2019-08-29T11:21:55-07:00'
+featured: no
+projects: []
+weight: 3
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: /slides/01-overview.html
+---
+
+
+```{r echo=FALSE}
+knitr::include_url("/slides/01-overview.html")
+```
+
+# Topics
+
++ Parameterized reports
++ R Markdown from the command line
++ Version controlled projects
++ Extension formats

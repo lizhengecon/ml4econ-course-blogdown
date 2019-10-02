@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Communicating with R Markdown</title>
+    <link>/authors/admin/</link>
+    <description>Recent content in admin on Communicating with R Markdown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/emi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/emi/</guid>
+      <description>&lt;p&gt;I wanted to be a comic artist but I came first in mathematics in high school so I figured my maths skills wasn&amp;rsquo;t bad. I can&amp;rsquo;t say the same for my drawing skills. I was realistic and chose to major in mathematics and statistics at uni. I managed to get accepted to do honours then got a PhD scholarship offer. Lucky for me offers kept on rolling in and somehow I made it as a tenured/permanent position at Monash, where a group of people I admire work. Once I pass probation, I&amp;rsquo;m going to draw more (don&amp;rsquo;t tell my head of department). Currently, looking more into R internals and grid package so I can draw with code. It&amp;rsquo;s hard.&lt;/p&gt;
+
+&lt;p&gt;Enjoys: drawing and coding.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
