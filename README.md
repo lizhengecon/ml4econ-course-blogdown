@@ -73,16 +73,15 @@ and doing applied work.
 
 ## Pre-work
 
-Welcome to the [Communicating with R Markdown](/) workshop\! We look
-forward to meeting you in person. Before attending the workshop, please
-complete the following prework:
+Welcome to the [Machine Learning for Economists](/) course\! Before
+attending class, please complete the following prework:
 
 1.  Sign up for a free RStudio Cloud account at <https://rstudio.cloud/>
     before the workshop. I recommend logging in with an existing Google
     or GitHub account, if you have one (rather than creating a new
     account with another password you have to remember).
 
-2.  We will be using GitHub in this workshop for version control and
+2.  We will be using GitHub in this course for version control and
     publishing. Sign up for a free GitHub.com account at
     <https://github.com/join> if you don’t already have one. Also:
     
@@ -121,10 +120,10 @@ complete the following prework:
 
 5.  Don’t forget your power cord\!
 
-On the day of the workshop, I’ll provide you with an RStudio Cloud
-project that contains all of the course materials. We will use the
-software listed above only as an important backup should there be
-problems with the on-site internet connection.
+On the day of the course, I’ll provide you with an RStudio Cloud project
+that contains all of the course materials. We will use the software
+listed above only as an important backup should there be problems with
+the on-site internet connection.
 
 [View slides](/slides/00-loop.html) *(note: these slides are
 intentionally a loop and will play on autoadvance)*

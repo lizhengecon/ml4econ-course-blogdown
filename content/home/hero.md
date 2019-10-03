@@ -49,7 +49,7 @@ hero_media = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Proteaceæ illustration by Elizabeth Twining, [CC-BY-SA Nicholas Rougeux]((https://www.c82.net/twining/plants/?id=118))<br>Website theme by [Desirée De Leon](http://desiree.rbind.io/)'
+  label = 'Website theme by [Desirée De Leon](http://desiree.rbind.io/)'
 +++
 
 Welcome to the "Machine Learning for Economists" course hompage!
@@ -58,6 +58,6 @@ This course will cover topics that range between machine learning (ML) and econo
 
 In this course you will:
 
-+ apply the best-practices for data science in the context of empirical research in economics.
++ apply best-practices for data science in the context of empirical research in economics.
 + develop an in-depth and practical knowledge of the challenges and opportunities that arise in applied empirical work involve high dimensional data.  
 + explore whether techniques and insights from the world of ML can be integrated into applied empirical research in economics, and so, how?

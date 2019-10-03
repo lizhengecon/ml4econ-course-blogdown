@@ -23,7 +23,7 @@ name: Itamar Caspi
 organizations:
 - name: Bank of Israel
   url: https://www.bankofisrael.org.il/
-role: Head of Monetary Analysis Unit
+role: Head of Monetary Analysis Unit, Bank of Israel
 social:
 - icon: twitter
   icon_pack: fab
