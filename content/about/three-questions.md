@@ -13,21 +13,21 @@ subtitle = "This course is appropriate for students who answer yes to these ques
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = ""
-  description = "Have you learned graduate level econometrics?"
+  icon = "vial"
+  icon_pack = "fas"
+  name = "Econometrics"
+  description = "Have you taken a graduate level econometrics course?"
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = ""
-  description = "Are you interested in learning more about machine learning and AI?"
+  name = "Machine Learning"
+  description = "Are you interested in learning more about machine learning?"
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = ""
+  name = "R"
   description = "Have you downloaded and used R? Can you install and load packages?" 
 
 [design.spacing]

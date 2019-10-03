@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: "protea-banner.png"
-title: "Workshop materials"
+title: "Lecture Notes"
 view: 1
 layout: post
 ---

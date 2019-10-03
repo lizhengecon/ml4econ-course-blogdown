@@ -13,10 +13,10 @@
     
     <item>
       <title>Lecture 01: Course Overview</title>
-      <link>/materials/02/</link>
+      <link>/materials/01/</link>
       <pubDate>Thu, 29 Aug 2019 11:21:55 -0700</pubDate>
       
-      <guid>/materials/02/</guid>
+      <guid>/materials/01/</guid>
       <description>
 
 
@@ -35,30 +35,25 @@
     </item>
     
     <item>
-      <title>Session 03: Templates</title>
-      <link>/materials/03/</link>
+      <title>Lecture 02: Basic Concepts</title>
+      <link>/materials/02/</link>
       <pubDate>Thu, 29 Aug 2019 11:21:55 -0700</pubDate>
       
-      <guid>/materials/03/</guid>
+      <guid>/materials/02/</guid>
       <description>
 
 
-&lt;iframe src=&#34;/slides/03-templates.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;iframe src=&#34;/slides/01-overview.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
 &lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 04: Collections</title>
-      <link>/materials/04/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/materials/04/</guid>
-      <description>
-
-
-&lt;iframe src=&#34;/slides/04-collections.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
-&lt;/iframe&gt;
+&lt;div id=&#34;topics&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Parameterized reports&lt;/li&gt;
+&lt;li&gt;R Markdown from the command line&lt;/li&gt;
+&lt;li&gt;Version controlled projects&lt;/li&gt;
+&lt;li&gt;Extension formats&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 </description>
     </item>
     

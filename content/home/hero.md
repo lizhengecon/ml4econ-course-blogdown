@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Machine Learning<br>for Economists"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "ml4econ_logo.jpg"
+hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.

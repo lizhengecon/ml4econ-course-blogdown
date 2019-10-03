@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/materials/prework/</loc>
-    <lastmod>2019-08-29T11:21:55-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/materials/01/</loc>
-    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+    <lastmod>2019-08-29T11:21:55-07:00</lastmod>
   </url>
   
   <url>
@@ -18,13 +13,9 @@
   </url>
   
   <url>
-    <loc>/materials/03/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-08-29T11:21:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/materials/04/</loc>
-    <lastmod>2019-08-29T11:21:55-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -39,19 +30,7 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-08-29T11:21:55-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/slides/</loc>
-    <lastmod>2019-08-29T11:21:55-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/prework/</loc>
     <lastmod>2019-08-29T11:21:55-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -81,10 +60,6 @@
   </url>
   
   <url>
-    <loc>/authors/emi/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
     <priority>0</priority>
   </url>
@@ -96,11 +71,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
     <priority>0</priority>
   </url>
   
