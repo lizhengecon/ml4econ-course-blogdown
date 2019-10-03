@@ -14,17 +14,17 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: /slides/01-overview.html
+  url: /slides/02-basic-ml-concepts.html
 ---
 
 
 ```{r echo=FALSE}
-knitr::include_url("/slides/01-overview.html")
+knitr::include_url("/slides/02-basic-ml-concepts.html")
 ```
 
 # Topics
 
-+ Parameterized reports
-+ R Markdown from the command line
-+ Version controlled projects
-+ Extension formats
++ What is ML?
++ Bias-variance Trade Off
++ Regularization and Cross Validation
++ ML vs. Econometrics

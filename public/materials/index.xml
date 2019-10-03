@@ -25,10 +25,7 @@
 &lt;div id=&#34;topics&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Topics&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Parameterized reports&lt;/li&gt;
-&lt;li&gt;R Markdown from the command line&lt;/li&gt;
-&lt;li&gt;Version controlled projects&lt;/li&gt;
-&lt;li&gt;Extension formats&lt;/li&gt;
+&lt;li&gt;Course Logistics&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </description>
@@ -43,15 +40,15 @@
       <description>
 
 
-&lt;iframe src=&#34;/slides/01-overview.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;iframe src=&#34;/slides/02-basic-ml-concepts.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
 &lt;/iframe&gt;
 &lt;div id=&#34;topics&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Topics&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Parameterized reports&lt;/li&gt;
-&lt;li&gt;R Markdown from the command line&lt;/li&gt;
-&lt;li&gt;Version controlled projects&lt;/li&gt;
-&lt;li&gt;Extension formats&lt;/li&gt;
+&lt;li&gt;What is ML?&lt;/li&gt;
+&lt;li&gt;Bias-variance Trade Off&lt;/li&gt;
+&lt;li&gt;Regularization and Cross Validation&lt;/li&gt;
+&lt;li&gt;ML vs. Econometrics&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </description>

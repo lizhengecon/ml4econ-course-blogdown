@@ -25,10 +25,7 @@
 &lt;div id=&#34;topics&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Topics&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Parameterized reports&lt;/li&gt;
-&lt;li&gt;R Markdown from the command line&lt;/li&gt;
-&lt;li&gt;Version controlled projects&lt;/li&gt;
-&lt;li&gt;Extension formats&lt;/li&gt;
+&lt;li&gt;Course Logistics&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </description>
@@ -43,15 +40,15 @@
       <description>
 
 
-&lt;iframe src=&#34;/slides/01-overview.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;iframe src=&#34;/slides/02-basic-ml-concepts.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
 &lt;/iframe&gt;
 &lt;div id=&#34;topics&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Topics&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Parameterized reports&lt;/li&gt;
-&lt;li&gt;R Markdown from the command line&lt;/li&gt;
-&lt;li&gt;Version controlled projects&lt;/li&gt;
-&lt;li&gt;Extension formats&lt;/li&gt;
+&lt;li&gt;What is ML?&lt;/li&gt;
+&lt;li&gt;Bias-variance Trade Off&lt;/li&gt;
+&lt;li&gt;Regularization and Cross Validation&lt;/li&gt;
+&lt;li&gt;ML vs. Econometrics&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </description>
@@ -74,56 +71,73 @@
       <guid>/schedule/</guid>
       <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;🗓    September 30, 2019&lt;br /&gt;
+&lt;p&gt;🗓    March, 2020&lt;br /&gt;
 🕗             17:30 - 20:00&lt;br /&gt;
-📍      Canberra, Australia&lt;br /&gt;
-✅   &lt;a href=&#34;https://statsoc.org.au/event-3457232&#34; target=&#34;_blank&#34;&gt;Register&lt;/a&gt;&lt;br /&gt;
-⚓️             &lt;a href=&#34;https://ysc-rmarkdown.netlify.com/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;ysc-rmarkdown.netlify.com&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+📍      HUJI, Mount Scopus&lt;br /&gt;
+⚓️             &lt;a href=&#34;https://ml4econ.rbind.io/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;ml4econ.rbind.io&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;The schedule below is tentative and subject to change, depending on time and class interests.
+We will move at a pace dictated by class discussions. Please check this page often for updates.&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Time&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Activity&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Week&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Topic&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;09:00 - 10:30&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Session 1 (R Markdown Basics)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Course Overview &amp;amp; Basic ML Concepts&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;10:30 - 11:00&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Break&lt;/em&gt; 🍵&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Reproducibiliy and Version Control&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;11:00 - 12:30&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Session 2 (Advanced R Markdown)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Regression and Classification&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12:30 - 01:30&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Lunch&lt;/em&gt; 🍱&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;4&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Regularization&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;01:30 - 03:00&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Session 3 (Templates)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Decision Trees and Random Forests&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;03:00 - 03:30&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Break&lt;/em&gt; 🍵&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Unsupervised Learning&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;03:30 - 05:00&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Session 4 (Collections)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;7&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Prediction in Aid of Estimation I - Lasso and Average Treatment Effects&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;8&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Prediction in Aid of Estimation II - Trees and Heterogeneous Treatment Effects&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;9&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Prediction Policy Problems&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Text as Data&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -163,6 +177,146 @@ Where to go?
       
       <guid>/people/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>resources</title>
+      <link>/resources/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; The following list of references and links may be useful. However, note that they &lt;em&gt;do not&lt;/em&gt; necessarily cover all the material we plan to cover in the class.&lt;/p&gt;
+
+&lt;h2 id=&#34;surveys&#34;&gt;Surveys&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Athey, S. (2018). &lt;a href=&#34;https://www.nber.org/chapters/c14009.pdf&#34; target=&#34;_blank&#34;&gt;The impact of machine learning on economics&lt;/a&gt;. In &lt;em&gt;The Economics of Artificial Intelligence: An Agenda&lt;/em&gt;. University of Chicago Press.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Athey, S., &amp;amp; Imbens, G. W. (2017). &lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/jep.31.2.3&#34; target=&#34;_blank&#34;&gt;The state of applied econometrics: Causality and policy evaluation&lt;/a&gt;. &lt;em&gt;Journal of Economic Perspectives&lt;/em&gt;, 31(2), 3-32.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Belloni, A., Chernozhukov, V., &amp;amp; Hansen, C. (2014). &lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/jep.28.2.29&#34; target=&#34;_blank&#34;&gt;High-dimensional methods and inference on structural and treatment effects&lt;/a&gt;. &lt;em&gt;Journal of Economic Perspectives&lt;/em&gt;, 28(2), 29-50.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mullainathan, S., &amp;amp; Spiess, J. (2017). &lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87&#34; target=&#34;_blank&#34;&gt;Machine learning: an applied econometric approach&lt;/a&gt;. &lt;em&gt;Journal of Economic Perspectives&lt;/em&gt;, 31(2), 87-106.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Varian, H. R. (2014). &lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/jep.28.2.3&#34; target=&#34;_blank&#34;&gt;Big data: New tricks for econometrics&lt;/a&gt;. &lt;em&gt;Journal of Economic Perspectives&lt;/em&gt;, 28(2), 3-28.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Gentzkow, M., Kelly, B., &amp;amp; Taddy, M. (2019). &lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/jel.20181020&#34; target=&#34;_blank&#34;&gt;Text as data&lt;/a&gt;. &lt;em&gt;Journal of Economic Literature&lt;/em&gt;, 57(3), 535-74.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;webcasts-and-online-courses&#34;&gt;Webcasts and Online Courses&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;AEA 2018 Continuing Education, &lt;a href=&#34;https://www.aeaweb.org/conference/cont-ed/2018-webcasts&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Machine Learning and Econometrics&amp;rdquo;&lt;/a&gt; (Athey and
+Imbens).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;NBER 2015 Method Lectures, &lt;a href=&#34;https://www.nber.org/econometrics_minicourse_2015/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Lectures on Machine Learning&amp;rdquo;&lt;/a&gt; (Athey and Imbens).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;NBER 2013 Method Lectures, &lt;a href=&#34;https://www.nber.org/econometrics_minicourse_2013/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Econometric Methods for High-Dimensional Data&amp;rdquo;&lt;/a&gt; (Chernozhukov, Gentzkow, Hansen, Shapiro, Taddy).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xl3yQBhI6vY&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Machine Learning and Prediction in Economics and Finance&amp;rdquo;&lt;/a&gt;, Sendhil Mullainathan, AFA
+Lecture, 2017.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.aeaweb.org/webcasts/2019/aea-afa-joint-luncheon-impact-of-machine-learning&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;The Impact of Machine Learning on Econometrics and Economics&amp;rdquo; &lt;/a&gt;, Susan Athey, AEA Lecture, 2019.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;textbooks&#34;&gt;Textbooks&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Business-Data-Science-Combining-Accelerate/dp/1260452778&#34; target=&#34;_blank&#34;&gt;Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Matt Taddy&lt;/em&gt;&lt;br /&gt;
+To the best of my knowledge, this is the first textbook out there that weaves together concepts from econometrics and machine learning.&lt;/p&gt;
+
+&lt;h3 id=&#34;machine-learning&#34;&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www-bcf.usc.edu/~gareth/ISL&#34; target=&#34;_blank&#34;&gt;An Introduction to Statistical Learning with Applications in R&lt;/a&gt; &lt;br&gt;
+&lt;em&gt;Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani&lt;/em&gt; &lt;br&gt;
+This book provides a hands-on and R-based introduction to Machine Learning. &lt;br/&gt;
+&lt;em&gt;PDF available online&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://statweb.stanford.edu/~tibs/ElemStatLearn&#34; target=&#34;_blank&#34;&gt;Elements of Statistical Learning&lt;/a&gt; &lt;br&gt;
+&lt;em&gt;Trevor Hastie, Robert Tibshirani and Jerome Friedman&lt;/em&gt; &lt;br/&gt;
+This book covers the same topics as previous book (and more), however, it provides more rigorous treatment. &lt;br&gt;
+&lt;em&gt;PDF available online&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ubc.ca/~murphyk/MLbook/&#34; target=&#34;_blank&#34;&gt;Machine Learning - A Probablistic Prespective&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Kevin P. Murphy&lt;/em&gt;&lt;br /&gt;
+This book includes basic topics in statistical modeling, as well as advanced machine learning topics.  It comes with Matlab code to reproduce almost every figure and algorithm, discussed in the book.&lt;/p&gt;
+
+&lt;h3 id=&#34;sparse-models&#34;&gt;&lt;strong&gt;Sparse Models&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The following two books presents a detailed account of recently developed approaches to estimating models containing a large number of parameters, including the Lasso and versions of it:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://web.stanford.edu/~hastie/StatLearnSparsity/&#34; target=&#34;_blank&#34;&gt;Statistical Learning with Sparsity - The Lasso and Generalizations&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Trevor Hastie, Robert Tibshirani, and Martin Wainwright&lt;/em&gt;&lt;br /&gt;
+In book contains an introduction to and a summary of the actively developing field of statistical learning with sparse models.&lt;br /&gt;
+&lt;em&gt;PDF available online&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.springer.com/gp/book/9783642201912&#34; target=&#34;_blank&#34;&gt;Statistics for High-Dimensional Data - Methods, Theory and Applications&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Peter Buhlmann, and Sara van de Geer&lt;/em&gt;&lt;br /&gt;
+This book brings together methodological concepts, computational algorithms, a
+few applications and mathematical theory for high-dimensional statistics.&lt;/p&gt;
+
+&lt;h3 id=&#34;causal-inference&#34;&gt;&lt;strong&gt;Causal Inference&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The following two textbooks provide a graduate level treatment of causal inference in social sciences:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mostlyharmlesseconometrics.com/&#34; target=&#34;_blank&#34;&gt;Mostly Harmless Econometrics&lt;/a&gt; &lt;br/&gt;
+&lt;em&gt;Joshua Angrist and Jorn-Steffen Pischke&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1017/CBO9781139025751&#34; target=&#34;_blank&#34;&gt;Causal Inference for Statistics, Social, and Biomedical Sciences&lt;/a&gt; &lt;br/&gt;
+&lt;em&gt;Guido Imbens and Donald Rubin&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;text-mining&#34;&gt;&lt;strong&gt;Text Mining&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R - A Tidy Approach&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Julia Silge and David Robinson&lt;/em&gt;&lt;br /&gt;
+The go-to textbook for those interested in textmining with R.&lt;/p&gt;
+
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670&#34; target=&#34;_blank&#34;&gt;Prediction Machines&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Ajay Agrawal, Joshua Gans, Avi Goldfarb&lt;/em&gt;&lt;br /&gt;
+A must-read book about the economics of AI. These authors recast the rise of AI as a drop in the cost of prediction and show how basic tools from IO economics can help analyze the effects of AI on the economy and our society.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815&#34; target=&#34;_blank&#34;&gt;Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Cathy O&amp;rsquo;Neil&lt;/em&gt;&lt;br /&gt;
+In this book, O&amp;rsquo;neil discusses the dangers of using on black-box descion making algorithms that are prone to significant biases in tasks like granting (or denying) loans, workers evaluation, parole setting, health monitoring.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Big-Data-Matter-Bloomsbury-Sigma-ebook/dp/B01AS2XZ2Y/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1548319043&amp;amp;sr=1-1&amp;amp;keywords=big+data+does+size+matter&#34; target=&#34;_blank&#34;&gt;Big Data: Does Size Matter?&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Timandra Harkness&lt;/em&gt;&lt;br /&gt;
+A non-technical and fun introduction to big-data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X&#34; target=&#34;_blank&#34;&gt;The Book of Why: The New Science of Cause and Effect&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Judea Pearl and Dana Mackenzie&lt;/em&gt;
+Pearl and Mackenzie&amp;rsquo;s book is a must for anyone interested in causality. It lays the foundations of Pearl&amp;rsquo;s approach to causal inference in plain English and graphs with very few equations.&lt;/p&gt;
+
+&lt;h2 id=&#34;people-to-follow&#34;&gt;People to follow&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey&#34; target=&#34;_blank&#34;&gt;Susan Athey&lt;/a&gt; (Stanford) &lt;a href=&#34;https://twitter.com/susan_athey&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://faculty.fuqua.duke.edu/~abn5/belloni-index.html&#34; target=&#34;_blank&#34;&gt;Alexandre Belloni&lt;/a&gt; (Duke)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.mit.edu/~vchern/&#34; target=&#34;_blank&#34;&gt;Victor Chernozhukov&lt;/a&gt; (MIT)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.sas.upenn.edu/~fdiebold/&#34; target=&#34;_blank&#34;&gt;Francis Diebold&lt;/a&gt; (Penn) &lt;a href=&#34;https://twitter.com/FrancisDiebold&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://voices.uchicago.edu/christianhansen/&#34; target=&#34;_blank&#34;&gt;Christian Hansen&lt;/a&gt; (Chicago)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens&#34; target=&#34;_blank&#34;&gt;Guido Imbens&lt;/a&gt; (Stanford)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://maxkasy.github.io/home/&#34; target=&#34;_blank&#34;&gt;Maximilian Kasy&lt;/a&gt; (Harvard) &lt;a href=&#34;https://twitter.com/maxkasy&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://grantmcdermott.com/&#34; target=&#34;_blank&#34;&gt;Grant McDermott&lt;/a&gt; (University of Oregon) &lt;a href=&#34;https://twitter.com/grant_mcdermott&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.chicagobooth.edu/faculty/directory/m/sendhil-mullainathan&#34; target=&#34;_blank&#34;&gt;Sendhil Mullainathan&lt;/a&gt;   (Chicago) &lt;a href=&#34;https://twitter.com/m_sendhil&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://scholar.harvard.edu/spiess&#34; target=&#34;_blank&#34;&gt;Jann Spiess&lt;/a&gt; (Harvard) &lt;a href=&#34;https://twitter.com/jannspiess&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://web.stanford.edu/~swager/index.html&#34; target=&#34;_blank&#34;&gt;Stefan Wager&lt;/a&gt; (Stanford)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>

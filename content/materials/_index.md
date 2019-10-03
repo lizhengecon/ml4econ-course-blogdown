@@ -1,7 +1,7 @@
 ---
 header:
   caption: ""
-  image: "protea-banner.png"
+  image: ""
 title: "Lecture Notes"
 view: 1
 layout: post

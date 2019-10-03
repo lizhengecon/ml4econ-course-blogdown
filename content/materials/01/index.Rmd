@@ -24,7 +24,4 @@ knitr::include_url("/slides/01-overview.html")
 
 # Topics
 
-+ Parameterized reports
-+ R Markdown from the command line
-+ Version controlled projects
-+ Extension formats
++ Course Logistics
