@@ -1,30 +1,35 @@
-R Markdown for Medicine: <br>From Data to Manuscript
+Machine Learning for Economists: <br>ml4econ
 ================
 
-### [R/Medicine 2019 conference](https://r-medicine.com/)
+### [Machine Learning for Economists](https://ml4econ.rbind.io/)
 
 -----
 
 <br>
 
-:spiral\_calendar: September 30, 2019  
-:clock8: 09:00am - 05:00pm  
-:round\_pushpin: Canberra, Australia  
-:white\_check\_mark: [Register](https://statsoc.org.au/event-3457232)  
-:anchor:
-[`ysc-rmarkdown.netlify.com`](https://ysc-rmarkdown.netlify.com/)
+:spiral\_calendar: March, 2020  
+:clock8: 17:30 - 20:00  
+:round\_pushpin: HUJI, Mount Scopus  
+:anchor: [`ml4econ.rbind.io`](https://ml4econ.rbind.io/)
 
 <br>
 
-| Time          | Activity                        |
-| :------------ | :------------------------------ |
-| 09:00 - 10:30 | Session 1 (R Markdown Basics)   |
-| 10:30 - 11:00 | *Break* :tea:                   |
-| 11:00 - 12:30 | Session 2 (Advanced R Markdown) |
-| 12:30 - 01:30 | *Lunch* :bento:                 |
-| 01:30 - 03:00 | Session 3 (Templates)           |
-| 03:00 - 03:30 | *Break* :tea:                   |
-| 03:30 - 05:00 | Session 4 (Collections)         |
+The schedule below is tentative and subject to change, depending on time
+and class interests. We will move at a pace dictated by class
+discussions. Please check this page often for updates.
+
+| Week   | Topic                                                                          |
+| :----- | :----------------------------------------------------------------------------- |
+| **1**  | Course Overview & Basic ML Concepts                                            |
+| **2**  | Reproducibiliy and Version Control                                             |
+| **3**  | Regression and Classification                                                  |
+| **4**  | Regularization                                                                 |
+| **5**  | Decision Trees and Random Forests                                              |
+| **6**  | Unsupervised Learning                                                          |
+| **7**  | Prediction in Aid of Estimation I - Lasso and Average Treatment Effects        |
+| **8**  | Prediction in Aid of Estimation II - Trees and Heterogeneous Treatment Effects |
+| **9**  | Prediction Policy Problems                                                     |
+| **10** | Text as Data                                                                   |
 
 <br>
 
@@ -56,28 +61,15 @@ Where to go?
 
 ## Overview
 
-In this full-day workshop, you’ll learn how to get more out of R
-Markdown (and friends). We will demystify how R Markdown works under the
-hood. You will learn practical tools and workflows to increase your
-efficiency and productivity using R Markdown (including RStudio IDE
-features and templates), while learning how to use some extension
-packages along the way. We assume that you have knit an R Markdown
-document before, but you don’t need to be an advanced R Markdown user to
-take this workshop.
-
-## Instructor
-
-Alison Hill is a Data Scientist & Professional Educator at RStudio. She
-received her PhD in psychology and quantitative methods from Vanderbilt
-University in 2008. Prior to joining RStudio, she was an Assistant
-Professor at Arizona State University, and an Associate Professor at
-Oregon Health & Science University (OHSU). Alison is one of the keynote
-speakers at the 2019 Young Statisticians Conference. She regularly leads
-workshops and develops online learning materials on topics like
-reproducible research, machine learning, and data visualization. She is
-also a co-author of the book ‘blogdown: Creating Websites with R
-Markdown’ (<https://bookdown.org/yihui/blogdown/>). Alison lives in
-Portland, Oregon with her husband and young daughter.
+This course covers topics that range between machine learning (ML) and
+econometrics. In particular, we will discuss concepts from the world of
+ML that can potentially contribute to empirical research in economics.
+The course will cover basic machine learning (supervised and
+unsupervised) methods, with an emphasis on the challenges and
+opportunities of integrating these methods in economics, and the
+relevance of ML to policy analysis and causal inference. The various
+topics are illustrated through applications, reading empirical articles,
+and doing applied work.
 
 ## Pre-work
 
@@ -123,7 +115,8 @@ complete the following prework:
         ``` r
         install.packages(c("rmarkdown", "devtools", "usethis", "here", 
                            "tidyverse", "xaringan", "flexdashboard", 
-                           "distill", "bookdown", "blogdown"))
+                           "distill", "bookdown", "blogdown",
+                           "glue", "wesanderson"))
         ```
 
 5.  Don’t forget your power cord\!
@@ -134,8 +127,7 @@ software listed above only as an important backup should there be
 problems with the on-site internet connection.
 
 [View slides](/slides/00-loop.html) *(note: these slides are
-intentionally a loop and will play on
-autoadvance)*
+intentionally a loop and will play on autoadvance)*
 
 -----
 

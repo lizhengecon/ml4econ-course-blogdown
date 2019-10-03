@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/materials/prework/</loc>
+    <lastmod>2019-08-29T11:21:55-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/materials/02/</loc>
     <lastmod>2019-08-29T11:21:55-07:00</lastmod>
   </url>
@@ -31,6 +36,12 @@
   
   <url>
     <loc>/categories/slides/</loc>
+    <lastmod>2019-08-29T11:21:55-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/prework/</loc>
     <lastmod>2019-08-29T11:21:55-07:00</lastmod>
     <priority>0</priority>
   </url>

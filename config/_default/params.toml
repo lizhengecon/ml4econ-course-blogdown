@@ -5,14 +5,14 @@
 #   Choose from:
 #   `conf_2020`, `conf1`, `conf2`, `conf3`, or `conf4`.
 #   `theme1`, `theme2`, `theme3`, or `theme4`.
-color_theme = "conf4"
+color_theme = "theme4"
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
 font = "font3"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "A full-day workshop on the R Markdown family of packages for the Statistical Society of Australia"
@@ -57,12 +57,12 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "caspi.itamar@gmail.com"
 phone = ""
 address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "Office hours: on demand"
+office_hours = "On demand"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -71,7 +71,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "#ml4econ", link = "https://twitter.com/hashtag/ml4econ"},
-  # {icon = "github", icon_pack = "fab", name = "See the materials", link = "https://github.com/rstudio-education/rmd4medicine"},
+  # {icon = "github", icon_pack = "fab", name = "See the materials", link = "https://https://github.com/ml4econ/ml4econ-course-blogdown"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -106,7 +106,7 @@ zoom = 15
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 
-plugins_css = ["conf-2020"]
+plugins_css = []
 plugins_js  = []
 
 ############################

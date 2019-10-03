@@ -16,7 +16,7 @@
   parent = "about"
 
 [[main]]
-  name = "Is this workshop for me?"
+  name = "Is this course for me?"
   url = "about#three-questions"
   weight = 20
   parent = "about"
@@ -51,5 +51,5 @@
   pre = "<i class=\"fas fa-cloud fa-lg\"></i>"
   name = ""
   url = "https://bit.ly/ysc-rmarkdown"
-  weight = 60
+  weight = 70
   

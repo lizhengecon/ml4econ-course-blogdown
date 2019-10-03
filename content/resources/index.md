@@ -1,5 +1,5 @@
 ---
-title: "resources"  # Add a page title.
+title: "Resources"  # Add a page title.
 summary: "Course Reading list"  # Add a page description.
 date: "2019-01-01T00:00:00Z"  # Add today's date.
 ---

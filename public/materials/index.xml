@@ -32,6 +32,44 @@
     </item>
     
     <item>
+      <title>Session 00: Prework</title>
+      <link>/materials/prework/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/materials/prework/</guid>
+      <description>
+
+
+&lt;p&gt;Welcome to the &lt;a href=&#34;/&#34;&gt;Communicating with R Markdown&lt;/a&gt; workshop! We look forward to meeting you in person. Before attending the workshop, please complete the following prework:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Sign up for a free RStudio Cloud account at &lt;a href=&#34;https://rstudio.cloud/&#34; class=&#34;uri&#34;&gt;https://rstudio.cloud/&lt;/a&gt; before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We will be using GitHub in this workshop for version control and publishing. Sign up for a free GitHub.com account at &lt;a href=&#34;https://github.com/join&#34; class=&#34;uri&#34;&gt;https://github.com/join&lt;/a&gt; if you don’t already have one. Also:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Complete these &lt;a href=&#34;https://happygitwithr.com/install-intro.html&#34;&gt;installation instructions&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Test your connection between GitHub and RStudio following &lt;a href=&#34;https://happygitwithr.com/connect-intro.html&#34;&gt;these steps&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; We &lt;em&gt;strongly recommend&lt;/em&gt; that if you are not already a fluent GitHub user you choose &lt;a href=&#34;https://happygitwithr.com/credential-caching.html&#34;&gt;HTTPS over SSH&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Complete this &lt;a href=&#34;https://commonmark.org/help/tutorial/&#34;&gt;10-minute interactive tutorial on Markdown&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Please bring a laptop that has the following installed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A recent version of R (&amp;gt;=3.6.0), which is available for free at &lt;a href=&#34;https://cloud.r-project.org/&#34; class=&#34;uri&#34;&gt;https://cloud.r-project.org/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A recent version of RStudio Desktop (&amp;gt;=1.2), available for free (&lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/#download&#34;&gt;RStudio Desktop Open Source License&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The R packages we will use, which you can install by connecting to the internet, opening RStudio, and running at the command line:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;install.packages(c(&amp;quot;rmarkdown&amp;quot;, &amp;quot;devtools&amp;quot;, &amp;quot;usethis&amp;quot;, &amp;quot;here&amp;quot;, 
+                   &amp;quot;tidyverse&amp;quot;, &amp;quot;xaringan&amp;quot;, &amp;quot;flexdashboard&amp;quot;, 
+                   &amp;quot;distill&amp;quot;, &amp;quot;bookdown&amp;quot;, &amp;quot;blogdown&amp;quot;,
+                   &amp;quot;glue&amp;quot;, &amp;quot;wesanderson&amp;quot;))&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Don’t forget your power cord!&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;On the day of the workshop, I’ll provide you with an RStudio Cloud project that contains all of the course materials. We will use the software listed above only as an important backup should there be problems with the on-site internet connection.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/slides/00-loop.html&#34;&gt;View slides&lt;/a&gt; &lt;em&gt;(note: these slides are intentionally a loop and will play on autoadvance)&lt;/em&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/00-loop.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lecture 02: Basic Concepts</title>
       <link>/materials/02/</link>
       <pubDate>Thu, 29 Aug 2019 11:21:55 -0700</pubDate>
