@@ -18,7 +18,7 @@ day_night = false
 description = "A course about the applications of machine learning methods and insights in empirical economics"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "ml4econ_sharing.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
