@@ -15,10 +15,10 @@ font = "font3"
 day_night = false
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "A full-day workshop on the R Markdown family of packages for the Statistical Society of Australia"
+description = "A course about the applications of machine learning methods and insights in empirical economics"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "ml4econ_logo.jpg"
+sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
@@ -44,7 +44,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 # `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/rstudio-education/communicate-rmd-workshop", editable = {docs = true}}
+edit_page = {repo_url = "https://github.com/ml4econ/ml4econ-course-blogdown/", editable = {docs = true}}
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
