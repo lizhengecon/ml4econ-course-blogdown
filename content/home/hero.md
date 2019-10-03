@@ -52,6 +52,12 @@ hero_media = ""
   label = 'Proteaceæ illustration by Elizabeth Twining, [CC-BY-SA Nicholas Rougeux]((https://www.c82.net/twining/plants/?id=118))<br>Website theme by [Desirée De Leon](http://desiree.rbind.io/)'
 +++
 
-TBA... In this course you'll learn to:
+Welcome to the homepage of the "Machine Learning for Economists" course!
 
-+ TBA
+This course will cover topics that range between machine learning (ML) and econometrics. In particular, we will discuss concepts from the world of ML that can potentially contribute to empirical research in economics. The course will cover basic machine learning (supervised and unsupervised) methods, with an emphasis on the challenges and opportunities of integrating these methods in economics, and the relevance of ML to policy analysis and causal inference. The various topics are illustrated through applications, reading empirical articles, and doing applied work.
+
+In this course you will:
+
++ apply the best-practices for data science in the context of empirical research in economics.
++ develop an in-depth and practical knowledge of the challenges and opportunities that arise in applied empirical work involve high dimensional data.  
++ explore whether techniques and insights from the world of ML can be integrated into applied empirical research in economics, and so, how?
