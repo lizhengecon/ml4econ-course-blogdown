@@ -18,7 +18,7 @@ day_night = false
 description = "A full-day workshop on the R Markdown family of packages for the Statistical Society of Australia"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "proteaceae.jpg"
+sharing_image = "ml4econ_logo.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""

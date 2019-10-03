@@ -40,10 +40,10 @@
       <description>
 
 
-&lt;p&gt;Welcome to the &lt;a href=&#34;/&#34;&gt;Communicating with R Markdown&lt;/a&gt; workshop! We look forward to meeting you in person. Before attending the workshop, please complete the following prework:&lt;/p&gt;
+&lt;p&gt;Welcome to the &lt;a href=&#34;/&#34;&gt;Machine Learning for Economists&lt;/a&gt; course! Before attending class, please complete the following prework:&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;p&gt;Sign up for a free RStudio Cloud account at &lt;a href=&#34;https://rstudio.cloud/&#34; class=&#34;uri&#34;&gt;https://rstudio.cloud/&lt;/a&gt; before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;We will be using GitHub in this workshop for version control and publishing. Sign up for a free GitHub.com account at &lt;a href=&#34;https://github.com/join&#34; class=&#34;uri&#34;&gt;https://github.com/join&lt;/a&gt; if you don’t already have one. Also:&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;We will be using GitHub in this course for version control and publishing. Sign up for a free GitHub.com account at &lt;a href=&#34;https://github.com/join&#34; class=&#34;uri&#34;&gt;https://github.com/join&lt;/a&gt; if you don’t already have one. Also:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Complete these &lt;a href=&#34;https://happygitwithr.com/install-intro.html&#34;&gt;installation instructions&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Test your connection between GitHub and RStudio following &lt;a href=&#34;https://happygitwithr.com/connect-intro.html&#34;&gt;these steps&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
@@ -62,7 +62,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Don’t forget your power cord!&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;On the day of the workshop, I’ll provide you with an RStudio Cloud project that contains all of the course materials. We will use the software listed above only as an important backup should there be problems with the on-site internet connection.&lt;/p&gt;
+&lt;p&gt;On the day of the course, I’ll provide you with an RStudio Cloud project that contains all of the course materials. We will use the software listed above only as an important backup should there be problems with the on-site internet connection.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;/slides/00-loop.html&#34;&gt;View slides&lt;/a&gt; &lt;em&gt;(note: these slides are intentionally a loop and will play on autoadvance)&lt;/em&gt;&lt;/p&gt;
 &lt;iframe src=&#34;/slides/00-loop.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
 &lt;/iframe&gt;
