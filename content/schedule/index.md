@@ -6,15 +6,15 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 <br>
 
-:spiral_calendar:    March, 2020  
+:white_check_mark:   March, 2020  
+:spiral_calendar:    Sunday  
 :clock8:             17:30 - 20:00   
-:round_pushpin:      HUJI, Mount Scopus  
-:anchor:             [`ml4econ.rbind.io`](https://ml4econ.rbind.io/)
+:round_pushpin:      HUJI, Mount Scopus, room TBA  
+:house:              [`ml4econ.rbind.io`](https://ml4econ.rbind.io/)
 
 <br>
 
-The schedule below is tentative and subject to change, depending on time and class interests.
-We will move at a pace dictated by class discussions. Please check this page often for updates.
+The schedule below is tentative and subject to change, depending on time and class interests. We will move at a pace dictated by class discussions.
 
 | Week                  | Topic                                                 |
 |:----------------------|:------------------------------------------------------|

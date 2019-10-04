@@ -48,8 +48,8 @@
   weight = 60
   
 [[main]]
-  pre = "<i class=\"fas fa-cloud fa-lg\"></i>"
+  pre = "<i class=\"fab fa-github fa-lg\"></i>"
   name = ""
-  url = "https://bit.ly/ysc-rmarkdown"
+  url = "https://github.com/ml4econ/ml4econ-course-blogdown"
   weight = 70
   
