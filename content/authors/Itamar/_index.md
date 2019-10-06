@@ -21,9 +21,9 @@ interests:
 - R
 name: Itamar Caspi
 organizations:
-- name: Bank of Israel
+- name: Head of Monetery Analysis Unit, Bank of Israel
   url: https://www.bankofisrael.org.il/
-role: Head of Monetary Analysis Unit, Bank of Israel
+role: Senior Economist
 social:
 - icon: home
   icon_pack: fas
